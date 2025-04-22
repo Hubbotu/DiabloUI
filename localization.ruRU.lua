@@ -144,7 +144,7 @@ elseif (GetLocale() == "ruRU") then
 	L.int 	= "Инт"
 	L.cri 	= "Крит"
 	L.has 	= "Скор"
-	L.mas 	= "Икус"
+	L.mas 	= "Искус"
 	L.ver 	= "Универ"
 	L.clearm	= "Очистить память"
 	L.total		= "Всего"
